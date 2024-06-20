@@ -1,0 +1,9 @@
+.name {
+	background-color: blueviolet;
+	color: azure;
+	display: flex;
+	align-items: center;
+	margin: 50px auto;
+	justify-content: space-around;
+	width: 450px;
+}
